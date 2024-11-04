@@ -98,6 +98,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
----
-
 Enjoy exploring and improving the T/Pulmoddai Central College Website! 🚀
