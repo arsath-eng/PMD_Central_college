@@ -3,7 +3,7 @@
 Welcome to the **T/Pulmoddai Central College** website repository! This project is a fully responsive, multi-page website designed to showcase school information, events, and community connections. Built using **HTML** and **CSS**, it’s structured for simplicity, elegance, and easy navigation.
 
 <p align="center">
-  <img src="images/screenshot-homepage.png" width="600" alt="Homepage Screenshot">
+  <img src="images/home.jpeg" width="600" alt="Homepage Screenshot">
 </p>
 
 ---
@@ -53,7 +53,7 @@ PMD_Central_college/
 
 | Home Page                                | About Page                                | Contact Page                              |
 | ---------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| ![Home Page](images/homepage.png)        | ![About Page](images/aboutpage.png)       | ![Contact Page](images/contact.png)       |
+| ![Home Page](images/home.jpeg)        | ![About Page](images/about.jpeg)       | ![Contact Page](images/contact.jpeg)       |
 
 ---
 
